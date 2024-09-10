@@ -28,3 +28,4 @@
 /home/n7a/Desktop/3/asp/projects/helloWorld/obj/Debug/net8.0/helloWorld.pdb
 /home/n7a/Desktop/3/asp/projects/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
 /home/n7a/Desktop/3/asp/projects/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll
+/home/n7a/Desktop/3/asp/projects/helloWorld/obj/Debug/net8.0/helloWorld.sourcelink.json

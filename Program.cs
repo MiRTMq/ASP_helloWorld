@@ -14,7 +14,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-Company com = new Company("name", 333, "something");
+Company com = new Company("Bread Company", 333, "Bakes bread");
 
 app.MapGet("/company", () => com.ToString());
 
