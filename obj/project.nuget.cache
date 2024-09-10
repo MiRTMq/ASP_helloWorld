@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwNUSaq4z+Efo2UIh0PXO5g6vfE/cytvGWJatHceXpQkRzVFuaH0ts1Qj3sxIfzJDtimMwTA11Ilx33fe5hAJg==",
+  "success": true,
+  "projectFilePath": "/home/n7a/Desktop/3/asp/projects/helloWorld/helloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/n7a/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
