@@ -16,13 +16,14 @@ if (!app.Environment.IsDevelopment())
 
 Company com = new Company("name", 333, "something");
 
-app.MapGet("/company",() => com.ToString());
+//app.MapGet("/company", () => com.ToString());
 
-app.MapGet("/rand",() => {
-Random rand = new Random();
-int num = rand.Next(0,101);
-return num.ToString();
-    });
+app.MapGet("/rand", () =>
+{
+    Random rand = new Random();
+    int num = rand.Next(0, 101);
+    return num.ToString();
+});
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
